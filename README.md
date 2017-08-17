@@ -1,2 +1,2 @@
 # ampt_related
-AMPT related scripts and Jupyter notebooks
+AMPT related auxiliary scripts and Jupyter notebooks
